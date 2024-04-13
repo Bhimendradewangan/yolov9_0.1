@@ -3,7 +3,7 @@ import math
 import numpy as np
 import torch
 import torch.nn as nn
-from models.common import Conv, DWConv, CSPBottleneck3Conv
+from models.common import CSPBottleneck3Conva
 from utils.downloads import attempt_download
 
 
